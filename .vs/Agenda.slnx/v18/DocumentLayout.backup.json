@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|c:\\users\\uso\\onedrive\\\u00E1rea de trabalho\\adamodulo2\\agenda\\agendatelefonica\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|solutionrelative:agendatelefonica\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|c:\\users\\uso\\onedrive\\\u00E1rea de trabalho\\adamodulo2\\agenda\\agendatelefonica\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|solutionrelative:agendatelefonica\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|c:\\users\\uso\\onedrive\\\u00E1rea de trabalho\\adamodulo2\\agenda\\agendatelefonica\\repositories\\agendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|solutionrelative:agendatelefonica\\repositories\\agendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|c:\\users\\uso\\onedrive\\\u00E1rea de trabalho\\adamodulo2\\agenda\\agendatelefonica\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|solutionrelative:agendatelefonica\\models\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|c:\\users\\uso\\onedrive\\\u00E1rea de trabalho\\adamodulo2\\agenda\\agendatelefonica\\agendatelefonica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|solutionrelative:agendatelefonica\\agendatelefonica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|c:\\users\\uso\\onedrive\\\u00E1rea de trabalho\\adamodulo2\\agenda\\agendatelefonica\\agendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|solutionrelative:agendatelefonica\\agendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|c:\\users\\uso\\onedrive\\\u00E1rea de trabalho\\adamodulo2\\agenda\\agendatelefonica\\repositories\\iagendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|solutionrelative:agendatelefonica\\repositories\\iagendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|c:\\users\\uso\\onedrive\\\u00E1rea de trabalho\\adamodulo2\\agenda\\agendatelefonica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292046A3-DDB0-966E-BBCA-0AD45CC296E2}|AgendaTelefonica\\AgendaTelefonica.csproj|solutionrelative:agendatelefonica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +39,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "AgendaTelefonica\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\WeatherForecast.cs",
-              "RelativeToolTip": "AgendaTelefonica\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "AgendaController.cs",
+              "DocumentMoniker": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Controllers\\AgendaController.cs",
+              "RelativeDocumentMoniker": "AgendaTelefonica\\Controllers\\AgendaController.cs",
+              "ToolTip": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Controllers\\AgendaController.cs",
+              "RelativeToolTip": "AgendaTelefonica\\Controllers\\AgendaController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T01:47:41.193Z",
+              "WhenOpened": "2025-11-25T00:47:29.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgendaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\AgendaDbContext.cs",
+              "RelativeDocumentMoniker": "AgendaTelefonica\\AgendaDbContext.cs",
+              "ToolTip": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\AgendaDbContext.cs",
+              "RelativeToolTip": "AgendaTelefonica\\AgendaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:23:20.67Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AgendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Repositories\\AgendaRepository.cs",
+              "RelativeDocumentMoniker": "AgendaTelefonica\\Repositories\\AgendaRepository.cs",
+              "ToolTip": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Repositories\\AgendaRepository.cs",
+              "RelativeToolTip": "AgendaTelefonica\\Repositories\\AgendaRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:19:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Agenda.cs",
               "DocumentMoniker": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Models\\Agenda.cs",
               "RelativeDocumentMoniker": "AgendaTelefonica\\Models\\Agenda.cs",
               "ToolTip": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Models\\Agenda.cs",
               "RelativeToolTip": "AgendaTelefonica\\Models\\Agenda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T01:28:03.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T02:54:12.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgendaTelefonica.csproj",
-              "DocumentMoniker": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\AgendaTelefonica.csproj",
-              "RelativeDocumentMoniker": "AgendaTelefonica\\AgendaTelefonica.csproj",
-              "ToolTip": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\AgendaTelefonica.csproj",
-              "RelativeToolTip": "AgendaTelefonica\\AgendaTelefonica.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-21T01:25:49.711Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaTelefonica\\Program.cs",
+              "ToolTip": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Program.cs",
+              "RelativeToolTip": "AgendaTelefonica\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:11:22.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAgendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Repositories\\IAgendaRepository.cs",
+              "RelativeDocumentMoniker": "AgendaTelefonica\\Repositories\\IAgendaRepository.cs",
+              "ToolTip": "C:\\Users\\Uso\\OneDrive\\\u00C1rea de Trabalho\\AdaModulo2\\Agenda\\AgendaTelefonica\\Repositories\\IAgendaRepository.cs",
+              "RelativeToolTip": "AgendaTelefonica\\Repositories\\IAgendaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:37:46.974Z"
             }
           ]
         }

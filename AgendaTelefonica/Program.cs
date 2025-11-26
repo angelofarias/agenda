@@ -1,4 +1,6 @@
 
+using AgendaTelefonica.Repositories;
+
 namespace AgendaTelefonica
 {
     public class Program
@@ -10,6 +12,9 @@ namespace AgendaTelefonica
             // Add services to the container.
 
             builder.Services.AddControllers();
+            builder.Services.AddScoped<IAgendaRepository, AgendaRepository>();
+            builder.Services.AddDbContext<AgendaDbContext>();
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -23,8 +28,7 @@ namespace AgendaTelefonica
                 app.UseSwaggerUI();
             }
 
-            app.UseAuthorization();
-
+            //app.UseAuthorization();
 
             app.MapControllers();
 

@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "AgendaTelefonica.Controllers.AgendaController",
+    "Method": "GetAllContatos",
+    "RelativePath": "api/contatos",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaTelefonica.Controllers.AgendaController",
+    "Method": "CreateAgenda",
+    "RelativePath": "api/contatos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agenda",
+        "Type": "AgendaTelefonica.Models.Agenda",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaTelefonica.Controllers.AgendaController",
+    "Method": "GetContatoById",
+    "RelativePath": "api/contatos/{id}",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaTelefonica.Controllers.AgendaController",
+    "Method": "CreateAgenda",
+    "RelativePath": "api/contatos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agenda",
+        "Type": "AgendaTelefonica.Models.Agenda",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaTelefonica.Controllers.AgendaController",
+    "Method": "Delete",
+    "RelativePath": "api/contatos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaTelefonica.Controllers.AgendaController",
+    "Method": "GetContatoByName",
+    "RelativePath": "api/contatos/nomes",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

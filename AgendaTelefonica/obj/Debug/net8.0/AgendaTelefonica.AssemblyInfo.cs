@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaTelefonica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d4942cb5f351bae2688450ab2caf9f22da6d777")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaTelefonica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaTelefonica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
